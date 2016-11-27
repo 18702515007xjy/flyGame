@@ -1,0 +1,110 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: C:/Users/Xujinyun/Desktop/flyGame/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = C:\Users\Xujinyun\Desktop\flyGame\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 480.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 720.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 640.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 960.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.33
+
+[LUA-print] [INFO] # display.width                = 480.00
+
+[LUA-print] [INFO] # display.height               = 720.00
+
+[LUA-print] [INFO] # display.cx                   = 240.00
+
+[LUA-print] [INFO] # display.cy                   = 360.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 480.00
+
+[LUA-print] [INFO] # display.top                  = 720.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -240.00
+
+[LUA-print] [INFO] # display.c_right              = 240.00
+
+[LUA-print] [INFO] # display.c_top                = 360.00
+
+[LUA-print] [INFO] # display.c_bottom             = -360.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] hero state	Normal
+
+[LUA-print] hero state	Dead
+
+[LUA-print] hero state	Normal
+
+[LUA-print] hero state	Blink
+
+[LUA-print] hero state	Normal
+
+[LUA-print] hero state	Dead
+
+[LUA-print] 0
+
+[LUA-print] hero state	Normal
+
+[LUA-print] hero state	Blink
+
+[LUA-print] hero state	Normal
+
+[LUA-print] 1
+
+[LUA-print] hero state	Dead
+
+[LUA-print] hero state	Normal
+
+[LUA-print] hero state	Blink
+
+[LUA-print] 2
+
+[LUA-print] hero state	Normal
+
+[LUA-print] 3
+
+[LUA-print] 4
+
+[LUA-print] 5
+
